@@ -37,6 +37,8 @@ public class Main {
 //        losowanie1.ustawNowe("lotto:aaa","multi:bbbb","extra:ccc");
 //        wyswietl1.update(losowanie1,null);
 
+        //ghghghgjhghgjgghgtesssssss
+
 
     }
 }
