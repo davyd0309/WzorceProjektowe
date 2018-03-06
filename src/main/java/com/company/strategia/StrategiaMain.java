@@ -7,9 +7,9 @@ import com.company.strategia.model.*;
  */
 public class StrategiaMain {
 
-    //         Wystêpuje klasa abstrakcyjana oraz klasy ktore po niej dziedzicz¹.
+    //    Wystï¿½puje klasa abstrakcyjana oraz klasy ktore po niej dziedziczï¿½.
 //        Klasa abstrakcyjna posiada pola jako interfejsy
-//        Klasy, które dziedzicz¹ w konstruktorze lub przez wstrzykiwanie maj¹ ustawione implementacje tych pól
+//        Klasy, ktï¿½re dziedziczï¿½ w konstruktorze lub przez wstrzykiwanie majï¿½ ustawione implementacje tych pï¿½l
 //        Kazda dodatkowa funkcjonalnosc rozna dla klas powinna byc interfejsem, ktory ma rozne implementacje.
 //
 
